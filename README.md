@@ -3,6 +3,7 @@ Minha linguagem escolhida foi o COBOL, é uma linguagem mais antiga e poucos jov
 Tenho muitos desafios pela frente, pois é um pouco difícil darem oportunidade para COBOL Jr e não existem muitos programas de formação para tal. Por ter me apaixonado pela linguagem
 decidi me arriscar nessa jornada meio incerta, mas não desisto fácil. Resolvi criar esse perfil, para que vocês, que estão vendo, possam me dar uma chance de somar a equipe de vocês e fazer a diferença. 
 
+vitoriacsoares@live.com
 
 Espero que gostem, assim como eu ;)
 <!---
